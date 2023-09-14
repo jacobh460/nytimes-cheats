@@ -1,4 +1,4 @@
-/*Jacob Hillman 2023*/
+/*Jacob H 2023*/
 /*https://www.nytimes.com/games/connections*/
 (async function()
 {
